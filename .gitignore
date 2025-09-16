@@ -1,0 +1,6 @@
+*.log
+!test1.log
+
+web
+
+.env
